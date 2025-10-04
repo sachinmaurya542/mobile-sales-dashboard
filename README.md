@@ -2,11 +2,16 @@ Mobile Sales Dashboard
 An interactive Power BI report analyzing mobile phone sales with dashboards for:
 Dashboard (overall KPIs)
 
+
 MTD Report (month-to-date metrics)
+
+
 Same Period Last Year (YOY comparison)
+
 
 📂 Data & Measures
 Main table: Sales Data
+
 
 Columns: Transaction ID, Date, Brand, Units Sold, Price Per Unit, Customer, City, Payment Method, Ratings, Mobile Model
 
@@ -50,5 +55,7 @@ Brand/Model breakdowns.
 Contact For question or Feedback, feel  free to Reach out.
 -Github: https://github.com/sachinmaurya542
 -Email:2000sachinmaurya@gmail.com
+
+
 
 
