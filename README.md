@@ -1,6 +1,6 @@
-Mobile Sales Dashboard
+Mobile Sales Dashboard.
 An interactive Power BI report analyzing mobile phone sales with dashboards for:
-Dashboard (overall KPIs)
+Dashboard (overall KPIs).
 
 
 MTD Report (month-to-date metrics)
@@ -53,7 +53,7 @@ Trends & comparisons (MTD, YOY)
 Brand/Model breakdowns.
 
 Contact For question or Feedback, feel  free to Reach out.
--Github: https://github.com/sachinmaurya542
+-Github: https://github.com/sachinmaurya542.
 -Email:2000sachinmaurya@gmail.com
 
 
